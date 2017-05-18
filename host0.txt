@@ -1,0 +1,307 @@
+
+#
+# 102.54.94.97 rhino.acme.com # source server
+# 38.25.63.10 x.acme.com # x client host
+
+# localhost name resolution is handled within DNS itself.
+127.0.0.1 localhost
+127.0.0.1 a
+#test 环境-.net
+172.16.9.108 test.zmw.longzhu.com
+172.16.9.220 test.a1.plu.cn
+172.16.9.220 test.sixteen.plu.cn
+172.16.9.220 test.comment.plu.cn
+172.16.9.220 test.configapi.plu.cn
+172.16.9.220 test.eventapi.plu.cn
+172.16.9.220 test.feedapi.plu.cn
+172.16.9.220 test.giftapi.plu.cn
+172.16.9.220 test.qqvip.api.plu.cn
+172.16.9.220 test.spamapi.plu.cn
+172.16.9.220 test.task.u.plu.cn
+172.16.9.220 test.log.plu.cn
+172.16.9.220 test.musicapi.corp.plu.cn
+172.16.9.220 test.private.api.plu.cn
+172.16.9.220 test.roomapicdn.plu.cn
+172.16.9.220 test.stream.plu.cn
+172.16.9.220 test.interapi.plu.cn
+172.16.9.220 test.mb.tga.plu.cn
+172.16.9.220 test.tagapi.plu.cn
+172.16.9.220 test.searchapi.plu.cn
+172.16.9.220 test.userapi.plu.cn
+172.16.9.220 test.star.api.plu.cn
+172.16.9.220 test.star.apicdn.plu.cn
+172.16.9.220 test.admin.plu.cn
+172.16.9.220 test.star.longzhu.com
+172.16.9.220 test.pay.plu.cn
+172.16.9.220 test.setting.longzhu.com
+172.16.9.220 test.i.longzhu.com
+#172.16.9.220 test.v.longzhu.com
+172.16.9.220 test.musicapi_corp.plu.cn
+172.16.9.4   test.mbgo.plu.cn
+172.16.9.220 test.livestream.plu.cn
+172.16.9.220 test.api.v.plu.cn
+172.16.9.220 test.rankapi.longzhu.com
+172.16.9.4   test.mbws.plu.cn
+172.16.9.221 test.bet.api.longzhu.com
+172.16.9.221 test.imapi.longzhu.com
+172.16.9.221 test.m.longzhu.com
+172.16.9.80 test.login.longzhu.com 
+172.16.9.80 test.login.plu.cn 
+
+
+#test 环境-php
+172.16.9.221 test.v.longzhu.com
+172.16.9.221 test.api.plu.cn
+172.16.9.221 test.bet.api.plu.cn
+172.16.9.221 test.tga.plu.cn
+172.16.9.221 test.longzhu.com
+172.16.9.221 test.stark.longzhu.com
+             
+172.16.9.221 test.vote.plu.cn
+172.16.9.221 test.vote.longzhu.com
+172.16.9.221 test.longzhu.com
+172.16.9.221 test.www.plu.cn
+172.16.9.221 test.cf.tga.plu.cn
+172.16.9.221 test.lol.tga.plu.cn
+172.16.9.221 test.g.longzhu.com
+172.16.9.221 test.jzwl.game.plu.cn
+172.16.9.221 test.olyra.plu.cn
+172.16.9.221 test.family.longzhu.com
+
+#test1 环境-.net
+
+172.16.9.220 test1.sixteen.plu.cn
+172.16.9.220 test1.comment.plu.cn
+172.16.9.220 test1.configapi.plu.cn
+172.16.9.220 test1.eventapi.plu.cn
+172.16.9.220 test1.feedapi.plu.cn
+172.16.9.220 test1.giftapi.plu.cn
+172.16.9.220 test1.qqvip.api.plu.cn
+172.16.9.220 test1.spamapi.plu.cn
+172.16.9.220 test1.task.u.plu.cn
+172.16.9.220 test1.log.plu.cn
+172.16.9.220 test1.musicapi.corp.plu.cn
+172.16.9.220 test1.private.api.plu.cn
+172.16.9.220 test1.roomapicdn.plu.cn
+172.16.9.220 test1.stream.plu.cn
+172.16.9.220 test1.interapi.plu.cn
+172.16.9.220 test1.mb.tga.plu.cn
+172.16.9.220 test1.searchapi.plu.cn
+172.16.9.220 test1.tagapi.plu.cn
+172.16.9.220 test1.userapi.plu.cn
+172.16.9.220 test1.star.api.plu.cn
+172.16.9.220 test1.star.apicdn.plu.cn
+172.16.9.220 test1.admin.plu.cn
+172.16.9.220 test1.star.longzhu.com
+172.16.9.220 test1.pay.plu.cn
+172.16.9.220 test1.setting.longzhu.com
+172.16.9.220 test1.musicapi_corp.plu.cn
+172.16.9.220 test1.i.longzhu.com
+172.16.9.220 test1.v.longzhu.com
+172.16.9.4  test1.mbgo.plu.cn
+172.16.9.4  mbws.plu.cn
+172.16.9.4 test1.mbws.plu.cn
+172.16.9.3 test1.im.longzhu.com
+
+#test1 环境-php
+172.16.9.221 test1.api.plu.cn
+172.16.9.221 test1.bet.api.plu.cn
+172.16.9.221 test1.bet.api.longzhu.com
+172.16.9.221 test1.tga.plu.cn
+172.16.9.221 test1.longzhu.com
+172.16.9.221 test1.api.v.plu.cn
+172.16.9.221 test1.vote.plu.cn
+
+172.16.9.221 test1.stark.longzhu.com
+172.16.9.221 test1.vote.longzhu.com
+172.16.9.221 test1.longzhu.com
+172.16.9.221 test1.www.plu.cn
+172.16.9.221 test1.cf.tga.plu.cn
+172.16.9.221 test1.lol.tga.plu.cn
+
+#test2 环境-.net
+172.16.9.220 test2.a1.plu.cn
+172.16.9.220 test2.sixteen.plu.cn
+172.16.9.220 test2.comment.plu.cn
+172.16.9.220 test2.configapi.plu.cn
+172.16.9.220 test2.eventapi.plu.cn
+172.16.9.220 test2.feedapi.plu.cn
+172.16.9.220 test2.giftapi.plu.cn
+172.16.9.220 test2.qqvip.api.plu.cn
+172.16.9.220 test2.spamapi.plu.cn
+172.16.9.220 test2.task.u.plu.cn
+172.16.9.220 test2.log.plu.cn
+172.16.9.220 test2.musicapi.corp.plu.cn
+172.16.9.220 test2.private.api.plu.cn
+172.16.9.220 test2.roomapicdn.plu.cn
+172.16.9.220 test2.stream.plu.cn
+172.16.9.220 test2.interapi.plu.cn
+172.16.9.220 test2.mb.tga.plu.cn
+172.16.9.220 test2.tagapi.plu.cn
+172.16.9.220 test2.searchapi.plu.cn
+172.16.9.220 test2.userapi.plu.cn
+172.16.9.220 test2.star.api.plu.cn
+172.16.9.220 test2.star.apicdn.plu.cn
+172.16.9.220 test2.admin.plu.cn
+172.16.9.220 test2.star.longzhu.com
+172.16.9.220 test2.pay.plu.cn
+172.16.9.220 test2.setting.longzhu.com
+172.16.9.220 test2.i.longzhu.com
+172.16.9.220 test2.v.longzhu.com
+
+#test2 环境-php
+172.16.9.221 test2.api.plu.cn
+172.16.9.221 test2.bet.api.plu.cn
+172.16.9.221 test2.tga.plu.cn
+172.16.9.221 test2.longzhu.com
+172.16.9.221 test2.api.v.plu.cn
+172.16.9.221 test2.vote.plu.cn
+
+172.16.9.221 test2.vote.longzhu.com
+172.16.9.221 test2.longzhu.com
+172.16.9.221 test2.www.plu.cn
+172.16.9.221 test2.cf.tga.plu.cn
+172.16.9.221 test2.lol.tga.plu.cn
+
+#test3 环境-.net
+172.16.9.220 test3.a1.plu.cn
+172.16.9.220 test3.sixteen.plu.cn
+172.16.9.220 test3.comment.plu.cn
+172.16.9.220 test3.configapi.plu.cn
+172.16.9.220 test3.eventapi.plu.cn
+172.16.9.220 test3.feedapi.plu.cn
+172.16.9.220 test3.giftapi.plu.cn
+172.16.9.220 test3.qqvip.api.plu.cn
+172.16.9.220 test3.spamapi.plu.cn
+172.16.9.220 test3.task.u.plu.cn
+172.16.9.220 test3.log.plu.cn
+172.16.9.220 test3.musicapi.corp.plu.cn
+172.16.9.220 test3.private.api.plu.cn
+172.16.9.220 test3.roomapicdn.plu.cn
+172.16.9.220 test3.stream.plu.cn
+172.16.9.220 test3.interapi.plu.cn
+172.16.9.220 test3.mb.tga.plu.cn
+172.16.9.220 test3.tagapi.plu.cn
+172.16.9.220 test3.searchapi.plu.cn
+172.16.9.220 test3.userapi.plu.cn
+172.16.9.220 test3.star.api.plu.cn
+172.16.9.220 test3.star.apicdn.plu.cn
+172.16.9.220 test3.admin.plu.cn
+172.16.9.220 test3.star.longzhu.com
+172.16.9.220 test3.pay.plu.cn
+172.16.9.220 test3.setting.longzhu.com
+172.16.9.220 test3.i.longzhu.com
+172.16.9.220 test3.v.longzhu.com
+172.16.9.220 test3.rankapi.longzhu.com
+
+#test3 环境-php
+172.16.9.221 test3.api.plu.cn
+172.16.9.221 test3.bet.api.plu.cn
+172.16.9.221 test3.tga.plu.cn
+172.16.9.221 test3.longzhu.com
+172.16.9.221 test3.api.v.plu.cn
+172.16.9.221 test3.vote.plu.cn
+
+172.16.9.221 test3.vote.longzhu.com
+172.16.9.221 test3.longzhu.com
+172.16.9.221 test3.www.plu.cn
+172.16.9.221 test3.cf.tga.plu.cn
+172.16.9.221 test3.lol.tga.plu.cn
+
+#test4 环境-.net
+172.16.9.220 test4.admin.plu.cn
+
+
+#test5 环境-.net
+172.16.9.220 test5.a1.plu.cn
+172.16.9.220 test5.sixteen.plu.cn
+172.16.9.220 test5.comment.plu.cn
+172.16.9.220 test5.configapi.plu.cn
+172.16.9.220 test5.eventapi.plu.cn
+172.16.9.220 test5.feedapi.plu.cn
+172.16.9.220 test5.giftapi.plu.cn
+172.16.9.220 test5.qqvip.api.plu.cn
+172.16.9.220 test5.spamapi.plu.cn
+172.16.9.220 test5.task.u.plu.cn
+172.16.9.220 test5.log.plu.cn
+172.16.9.220 test5.musicapi.corp.plu.cn
+172.16.9.220 test5.private.api.plu.cn
+172.16.9.220 test5.roomapicdn.plu.cn
+172.16.9.220 test5.stream.plu.cn
+172.16.9.220 test5.interapi.plu.cn
+172.16.9.220 test5.mb.tga.plu.cn
+172.16.9.220 test5.tagapi.plu.cn
+172.16.9.220 test5.searchapi.plu.cn
+172.16.9.220 test5.userapi.plu.cn
+172.16.9.220 test5.star.api.plu.cn
+172.16.9.220 test5.star.apicdn.plu.cn
+172.16.9.220 test5.admin.plu.cn
+172.16.9.220 test5.star.longzhu.com
+172.16.9.220 test5.pay.plu.cn
+172.16.9.220 test5.setting.longzhu.com
+172.16.9.220 test5.musicapi_corp.plu.cn
+172.16.9.220 test5.i.longzhu.com
+172.16.9.220 test5.v.longzhu.com
+172.16.9.220 test5.liveapi.plu.cn
+172.16.9.4   test5.mbgo.plu.cn
+
+#test5 环境-php
+172.16.9.221 test5.api.plu.cn
+172.16.9.221 test5.bet.api.plu.cn
+172.16.9.221 test5.tga.plu.cn
+172.16.9.221 test5.longzhu.com
+172.16.9.221 test5.api.v.plu.cn
+172.16.9.221 test5.vote.plu.cn
+
+172.16.9.221 test5.vote.longzhu.com
+172.16.9.221 test5.longzhu.com
+172.16.9.221 test5.www.plu.cn
+172.16.9.221 test5.cf.tga.plu.cn
+172.16.9.221 test5.lol.tga.plu.cn
+172.16.9.221 test5.a4cdn.plu.cn
+
+
+
+#.net预发布
+#115.231.96.160  star.longzhu.com
+#115.231.96.160  setting.longzhu.com
+#115.231.96.160  giftapi.plu.cn
+#115.231.96.160  feedapi.plu.cn
+#115.231.96.160  spamapi.plu.cn
+#115.231.96.160  task.u.plu.cn
+#115.231.96.160  tagapi.plu.cn
+#115.231.96.160  searchapi.plu.cn
+#115.231.96.160  star.api.plu.cn
+#115.231.96.160  pre.admin.plu.cn
+#115.231.96.160  houtai.tga.plu.cn
+#115.231.96.160  pay.plu.cn
+#115.231.96.160  i.longzhu.com
+#115.231.96.160  v.longzhu.com
+#115.231.96.160  eventapi.plu.cn 
+#115.231.96.160  mb.tga.plu.cn
+#115.231.96.160  rankapi.longzhu.com
+115.231.96.148  admin.a4.plu.cn
+#115.231.96.160 liveapi.plu.cn
+
+#115.231.106.242 r.plures.net
+
+
+#115.231.96.138 imapi.longzhu.com
+#115.231.96.160 userapi.plu.cn
+
+
+#php预发布
+#115.231.96.148 tga.plu.cn
+#115.231.96.148 longzhu.com
+#115.231.96.148 api.plu.cn
+#115.231.96.148 v.longzhu.com
+#115.231.96.148 family.longzhu.com
+115.231.96.148 rc.stark.longzhu.com
+#115.231.96.148 h5.longzhu.com
+
+
+#赛事配置
+#115.231.96.146  schedules.plu.cn
+
+#test 前端
+172.16.9.4 r.plures.net

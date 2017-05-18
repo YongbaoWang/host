@@ -1,0 +1,618 @@
+﻿# ios -yoyo
+127.0.0.1		localhost
+255.255.255.255	broadcasthost
+::1				localhost
+fe80::1%lo0		localhost
+
+115.231.106.246		job.longzhu.com
+115.231.106.246		paas.longzhu.com
+115.231.106.246		cmdb.longzhu.com
+
+115.231.106.240		test.mbgo.plu.cn
+115.231.106.240		test1.mbgo.plu.cn
+115.231.106.240		test2.mbgo.plu.cn
+115.231.106.240		test3.mbgo.plu.cn
+115.231.106.240		test4.mbgo.plu.cn
+115.231.106.240		test5.mbgo.plu.cn
+115.231.106.240		test6.mbgo.plu.cn
+115.231.106.240		test.imapi.longzhu.com
+115.231.106.240		test1.imapi.longzhu.com
+115.231.106.240		test2.imapi.longzhu.com
+115.231.106.240		test3.imapi.longzhu.com
+115.231.106.240		test4.imapi.longzhu.com
+115.231.106.240		test5.imapi.longzhu.com
+115.231.106.240		test6.imapi.longzhu.com
+115.231.106.240		test.mbws.plu.cn
+115.231.106.240		test.mbgows.plu.cn
+115.231.106.240		test1.mbws.plu.cn
+115.231.106.240		test1.mbgows.plu.cn
+115.231.106.240		test2.mbws.plu.cn
+115.231.106.240		test2.mbgows.plu.cn
+115.231.106.240		test3.mbws.plu.cn
+115.231.106.240		test3.mbgows.plu.cn
+115.231.106.240		test4.mbws.plu.cn
+115.231.106.240		test4.mbgows.plu.cn
+115.231.106.240		test5.mbws.plu.cn
+115.231.106.240		test5.mbgows.plu.cn
+115.231.106.240		test6.mbws.plu.cn
+115.231.106.240		test6.mbgows.plu.cn
+
+115.231.106.240		test.mservice.longzhu.com
+115.231.106.240		test1.mservice.longzhu.com
+115.231.106.240		test2.mservice.longzhu.com
+115.231.106.240		test3.mservice.longzhu.com
+115.231.106.240		test4.mservice.longzhu.com
+115.231.106.240		test5.mservice.longzhu.com
+115.231.106.240		test6.mservice.longzhu.com
+115.231.106.240 	mservice.plu.cn
+
+
+#---.php
+
+115.231.106.229		login.plu.dev
+115.231.106.229		login.plu.cn
+
+115.231.106.229		test.bet.api.plu.cn
+115.231.106.229		test.tga.plu.cn
+115.231.106.229		test.longzhu.com
+115.231.106.229		test.api.v.plu.cn
+115.231.106.229		test.vote.plu.cn
+115.231.106.229		test.vote.plu.cn
+115.231.106.229		test.vote.longzhu.com
+115.231.106.229		test.longzhu.com
+115.231.106.229		test.www.plu.cn
+115.231.106.229		test.cf.tga.plu.cn
+115.231.106.229		test.lol.tga.plu.cn
+115.231.106.229		test.g.longzhu.com
+115.231.106.229		test.jzwl.game.plu.cn
+115.231.106.229		test.olyra.plu.cn
+115.231.106.229		test.family.longzhu.com
+115.231.106.229		test.recruit.longzhu.com
+115.231.106.229		test.cps.plu.cn
+115.231.106.229		test.bet.api.longzhu.com
+115.231.106.229		test.nz.tga.plu.cn
+115.231.106.229		test.bigbang.longzhu.com
+115.231.106.229		test.login.plu.cn
+115.231.106.229		login.plu.cn  login.longzhu.com  
+115.231.106.229		test.login.longzhu.com
+115.231.106.229		test.olyra.longzhu.com
+115.231.106.229		test.m.longzhu.com
+115.231.106.229		test.admin.a4.plu.cn
+
+115.231.106.229		test.api.plu.cn
+115.231.106.229		test.orion.plu.cn
+115.231.106.229		test.stark.longzhu.com
+115.231.106.229		test.thor.plu.cn
+115.231.106.229		test.www.longzhu.com
+
+#---.net
+115.231.106.236		test.a1.plu.cn
+115.231.106.236		test.sixteen.plu.cn
+115.231.106.236		test.comment.plu.cn
+115.231.106.236		test.configapi.plu.cn
+115.231.106.236		test.eventapi.plu.cn
+115.231.106.236		test.feedapi.plu.cn
+115.231.106.236		test.giftapi.plu.cn
+115.231.106.236		test.qqvip.api.plu.cn
+115.231.106.236		test.spamapi.plu.cn
+115.231.106.236		test.task.u.plu.cn
+115.231.106.236		test.log.plu.cn
+115.231.106.236		test.musicapi.corp.plu.cn
+115.231.106.236		test.private.api.plu.cn
+115.231.106.236		test.roomapicdn.plu.cn
+115.231.106.236		test.stream.plu.cn
+115.231.106.236		test.interapi.plu.cn
+115.231.106.236		test.mb.tga.plu.cn
+115.231.106.236		test.tagapi.plu.cn
+115.231.106.244  	test.searchapi.plu.cn
+115.231.106.236		test.userapi.plu.cn
+115.231.106.236		test.star.api.plu.cn
+115.231.106.236		test.star.apicdn.plu.cn
+115.231.106.236		test.admin.plu.cn
+115.231.106.236		test.star.longzhu.com
+115.231.106.236		test.pay.plu.cn
+115.231.106.236		test.setting.longzhu.com
+115.231.106.236		test.i.longzhu.com
+115.231.106.236		test.v.longzhu.com
+115.231.106.236		test.musicapi_corp.plu.cn
+115.231.106.236		test.livestream.plu.cn
+115.231.106.236		test.rankapi.longzhu.com
+115.231.106.236		test.houtai.tga.plu.cn
+
+115.231.106.236		test.a2.longzhu.com
+115.231.106.236		test.api.longzhu.com
+115.231.106.236		test.api.v.longzhu.com
+115.231.106.236		test.comment.longzhu.com
+115.231.106.236		test.configapi.longzhu.com
+115.231.106.236		test.feedapi.longzhu.com
+115.231.106.236		test.giftapi.longzhu.com
+115.231.106.236		test.h5.longzhu.com
+115.231.106.236		test.liveapi.longzhu.com
+115.231.106.236		test.liveapi.plu.cn
+115.231.106.236		test.livestream.longzhu.com
+115.231.106.236		test.livestreamcdn.longzhu.com
+115.231.106.236		test.pay.longzhu.com
+115.231.106.236		test.playerlog.longzhu.com
+115.231.106.236		test.qqvipapi.longzhu.com
+115.231.106.236		test.roomapicdn.longzhu.com
+115.231.106.236		test.searchapi.longzhu.com
+115.231.106.236		test.spamapi.longzhu.com
+115.231.106.236		test.starapi.longzhu.com
+115.231.106.236		test.starapicdn.longzhu.com
+115.231.106.236		test.userapi.longzhu.com
+115.231.106.236		test.videoapi.longzhu.com
+115.231.106.236		test.zone.longzhu.com
+
+####----test1
+115.231.106.229		test1.bet.api.plu.cn
+115.231.106.229		test1.tga.plu.cn
+115.231.106.229		test1.longzhu.com
+115.231.106.229		test1.api.v.plu.cn
+115.231.106.229		test1.vote.plu.cn
+115.231.106.229		test1.vote.plu.cn
+115.231.106.229		test1.vote.longzhu.com
+115.231.106.229		test1.longzhu.com
+115.231.106.229		test1.www.plu.cn
+115.231.106.229		test1.cf.tga.plu.cn
+115.231.106.229		test1.lol.tga.plu.cn
+115.231.106.229		test1.g.longzhu.com
+115.231.106.229		test1.jzwl.game.plu.cn
+115.231.106.229		test1.olyra.plu.cn
+115.231.106.229		test1.family.longzhu.com
+115.231.106.229		test1.recruit.longzhu.com
+115.231.106.229		test1.cps.plu.cn
+115.231.106.229		test1.bet.api.longzhu.com
+115.231.106.229		test1.nz.tga.plu.cn
+115.231.106.229		test1.bigbang.longzhu.com
+115.231.106.229		test1.login.plu.cn
+115.231.106.229		test1.login.longzhu.com
+115.231.106.229		test1.olyra.longzhu.com
+
+115.231.106.229		test1.m.longzhu.com
+115.231.106.229		test1.admin.a4.plu.cn
+
+115.231.106.236		test1.a1.plu.cn
+115.231.106.236		test1.sixteen.plu.cn
+115.231.106.236		test1.comment.plu.cn
+115.231.106.236		test1.configapi.plu.cn
+115.231.106.236		test1.eventapi.plu.cn
+115.231.106.236		test1.feedapi.plu.cn
+115.231.106.236		test1.giftapi.plu.cn
+115.231.106.236		test1.qqvip.api.plu.cn
+115.231.106.236		test1.spamapi.plu.cn
+115.231.106.236		test1.task.u.plu.cn
+115.231.106.236		test1.log.plu.cn
+115.231.106.236		test1.musicapi.corp.plu.cn
+115.231.106.236		test1.private.api.plu.cn
+115.231.106.236		test1.roomapicdn.plu.cn
+115.231.106.236		test1.stream.plu.cn
+115.231.106.236		test1.interapi.plu.cn
+115.231.106.236		test1.mb.tga.plu.cn
+115.231.106.236		test1.tagapi.plu.cn
+115.231.106.236		test1.searchapi.plu.cn
+115.231.106.236		test1.userapi.plu.cn
+115.231.106.236		test1.star.api.plu.cn
+115.231.106.236		test1.star.apicdn.plu.cn
+115.231.106.236		test1.admin.plu.cn
+115.231.106.236		test1.star.longzhu.com
+115.231.106.236		test1.pay.plu.cn
+115.231.106.236		test1.setting.longzhu.com
+115.231.106.236		test1.i.longzhu.com
+115.231.106.236		test1.v.longzhu.com
+115.231.106.236		test1.musicapi_corp.plu.cn
+115.231.106.236		test1.livestream.plu.cn
+115.231.106.236		test1.rankapi.longzhu.com
+115.231.106.236		test1.houtai.tga.plu.cn
+
+####---test2
+115.231.106.229		test2.bet.api.plu.cn
+115.231.106.229		test2.tga.plu.cn
+115.231.106.229		test2.longzhu.com
+115.231.106.229		test2.api.v.plu.cn
+115.231.106.229		test2.vote.plu.cn
+115.231.106.229		test2.vote.plu.cn
+115.231.106.229		test2.vote.longzhu.com
+115.231.106.229		test2.longzhu.com
+115.231.106.229		test2.www.plu.cn
+115.231.106.229		test2.cf.tga.plu.cn
+115.231.106.229		test2.lol.tga.plu.cn
+115.231.106.229		test2.g.longzhu.com
+115.231.106.229		test2.jzwl.game.plu.cn
+115.231.106.229		test2.olyra.plu.cn
+115.231.106.229		test2.family.longzhu.com
+115.231.106.229		test2.recruit.longzhu.com
+115.231.106.229		test2.cps.plu.cn
+115.231.106.229		test2.bet.api.longzhu.com
+115.231.106.229		test2.nz.tga.plu.cn
+115.231.106.229		test2.bigbang.longzhu.com
+115.231.106.229		test2.login.plu.cn
+115.231.106.229		test2.login.longzhu.com
+115.231.106.229		test2.olyra.longzhu.com
+
+115.231.106.229		test2.m.longzhu.com
+115.231.106.229		test2.admin.a4.plu.cn
+
+115.231.106.236		test2.a1.plu.cn
+115.231.106.236		test2.sixteen.plu.cn
+115.231.106.236		test2.comment.plu.cn
+115.231.106.236		test2.configapi.plu.cn
+115.231.106.236		test2.eventapi.plu.cn
+115.231.106.236		test2.feedapi.plu.cn
+115.231.106.236		test2.giftapi.plu.cn
+115.231.106.236		test2.qqvip.api.plu.cn
+115.231.106.236		test2.spamapi.plu.cn
+115.231.106.236		test2.task.u.plu.cn
+115.231.106.236		test2.log.plu.cn
+115.231.106.236		test2.musicapi.corp.plu.cn
+115.231.106.236		test2.private.api.plu.cn
+115.231.106.236		test2.roomapicdn.plu.cn
+115.231.106.236		test2.stream.plu.cn
+115.231.106.236		test2.interapi.plu.cn
+115.231.106.236		test2.mb.tga.plu.cn
+115.231.106.236		test2.tagapi.plu.cn
+115.231.106.236		test2.searchapi.plu.cn
+115.231.106.236		test2.userapi.plu.cn
+115.231.106.236		test2.star.api.plu.cn
+115.231.106.236		test2.star.apicdn.plu.cn
+115.231.106.236		test2.admin.plu.cn
+115.231.106.236		test2.star.longzhu.com
+115.231.106.236		test2.pay.plu.cn
+115.231.106.236		test2.setting.longzhu.com
+115.231.106.236		test2.i.longzhu.com
+115.231.106.236		test2.v.longzhu.com
+115.231.106.236		test2.musicapi_corp.plu.cn
+115.231.106.236		test2.livestream.plu.cn
+115.231.106.236		test2.rankapi.longzhu.com
+115.231.106.236		test2.houtai.tga.plu.cn
+
+###------test4
+115.231.106.229		test4.bet.api.plu.cn
+115.231.106.229		test4.tga.plu.cn
+115.231.106.229		test4.longzhu.com
+115.231.106.229		test4.api.v.plu.cn
+115.231.106.229		test4.vote.plu.cn
+115.231.106.229		test4.vote.plu.cn
+115.231.106.229		test4.vote.longzhu.com
+115.231.106.229		test4.longzhu.com
+115.231.106.229		test4.www.plu.cn
+115.231.106.229		test4.cf.tga.plu.cn
+115.231.106.229		test4.lol.tga.plu.cn
+115.231.106.229		test4.g.longzhu.com
+115.231.106.229		test4.jzwl.game.plu.cn
+115.231.106.229		test4.olyra.plu.cn
+115.231.106.229		test4.family.longzhu.com
+115.231.106.229		test4.recruit.longzhu.com
+115.231.106.229		test4.cps.plu.cn
+115.231.106.229		test4.bet.api.longzhu.com
+115.231.106.229		test4.nz.tga.plu.cn
+115.231.106.229		test4.bigbang.longzhu.com
+115.231.106.229		test4.login.plu.cn
+115.231.106.229		test4.login.longzhu.com
+115.231.106.229		test4.olyra.longzhu.com
+
+115.231.106.229		test4.m.longzhu.com
+115.231.106.229		test4.admin.a4.plu.cn
+
+115.231.106.236		test4.a1.plu.cn
+115.231.106.236		test4.sixteen.plu.cn
+115.231.106.236		test4.comment.plu.cn
+115.231.106.236		test4.configapi.plu.cn
+115.231.106.236		test4.eventapi.plu.cn
+115.231.106.236		test4.feedapi.plu.cn
+115.231.106.236		test4.giftapi.plu.cn
+115.231.106.236		test4.qqvip.api.plu.cn
+115.231.106.236		test4.spamapi.plu.cn
+115.231.106.236		test4.task.u.plu.cn
+115.231.106.236		test4.log.plu.cn
+115.231.106.236		test4.musicapi.corp.plu.cn
+115.231.106.236		test4.private.api.plu.cn
+115.231.106.236		test4.roomapicdn.plu.cn
+115.231.106.236		test4.stream.plu.cn
+115.231.106.236		test4.interapi.plu.cn
+115.231.106.236		test4.mb.tga.plu.cn
+115.231.106.236		test4.tagapi.plu.cn
+115.231.106.236		test4.searchapi.plu.cn
+115.231.106.236		test4.userapi.plu.cn
+115.231.106.236		test4.star.api.plu.cn
+115.231.106.236		test4.star.apicdn.plu.cn
+115.231.106.236		test4.admin.plu.cn
+115.231.106.236		test4.star.longzhu.com
+115.231.106.236		test4.pay.plu.cn
+115.231.106.236		test4.setting.longzhu.com
+115.231.106.236		test4.i.longzhu.com
+115.231.106.236		test4.v.longzhu.com
+115.231.106.236		test4.musicapi_corp.plu.cn
+115.231.106.236		test4.livestream.plu.cn
+115.231.106.236		test4.rankapi.longzhu.com
+115.231.106.236		test4.houtai.tga.plu.cn
+
+###----test3
+115.231.106.229		test3.bet.api.plu.cn
+115.231.106.229		test3.tga.plu.cn
+115.231.106.229		test3.longzhu.com
+115.231.106.229		test3.api.v.plu.cn
+115.231.106.229		test3.vote.plu.cn
+115.231.106.229		test3.vote.plu.cn
+115.231.106.229		test3.vote.longzhu.com
+115.231.106.229		test3.longzhu.com
+115.231.106.229		test3.www.plu.cn
+115.231.106.229		test3.cf.tga.plu.cn
+115.231.106.229		test3.lol.tga.plu.cn
+115.231.106.229		test3.g.longzhu.com
+115.231.106.229		test3.jzwl.game.plu.cn
+115.231.106.229		test3.olyra.plu.cn
+115.231.106.229		test3.family.longzhu.com
+115.231.106.229		test3.recruit.longzhu.com
+115.231.106.229		test3.cps.plu.cn
+115.231.106.229		test3.bet.api.longzhu.com
+115.231.106.229		test3.nz.tga.plu.cn
+115.231.106.229		test3.bigbang.longzhu.com
+115.231.106.229		test3.login.plu.cn
+115.231.106.229		test3.login.longzhu.com
+115.231.106.229		test3.olyra.longzhu.com
+
+115.231.106.229		test3.m.longzhu.com
+115.231.106.229		test3.admin.a4.plu.cn
+
+115.231.106.236		test3.a1.plu.cn
+115.231.106.236		test3.sixteen.plu.cn
+115.231.106.236		test3.comment.plu.cn
+115.231.106.236		test3.configapi.plu.cn
+115.231.106.236		test3.eventapi.plu.cn
+115.231.106.236		test3.feedapi.plu.cn
+115.231.106.236		test3.giftapi.plu.cn
+115.231.106.236		test3.qqvip.api.plu.cn
+115.231.106.236		test3.spamapi.plu.cn
+115.231.106.236		test3.task.u.plu.cn
+115.231.106.236		test3.log.plu.cn
+115.231.106.236		test3.musicapi.corp.plu.cn
+115.231.106.236		test3.private.api.plu.cn
+115.231.106.236		test3.roomapicdn.plu.cn
+115.231.106.236		test3.stream.plu.cn
+115.231.106.236		test3.interapi.plu.cn
+115.231.106.236		test3.mb.tga.plu.cn
+115.231.106.236		test3.tagapi.plu.cn
+115.231.106.236		test3.searchapi.plu.cn
+115.231.106.236		test3.userapi.plu.cn
+115.231.106.236		test3.star.api.plu.cn
+115.231.106.236		test3.star.apicdn.plu.cn
+115.231.106.236		test3.admin.plu.cn
+115.231.106.236		test3.star.longzhu.com
+115.231.106.236		test3.pay.plu.cn
+115.231.106.236		test3.setting.longzhu.com
+115.231.106.236		test3.i.longzhu.com
+115.231.106.236		test3.v.longzhu.com
+115.231.106.236		test3.musicapi_corp.plu.cn
+115.231.106.236		test3.livestream.plu.cn
+115.231.106.236		test3.rankapi.longzhu.com
+115.231.106.236		test3.houtai.tga.plu.cn
+  115.231.106.236     test5.a1.plu.cn
+  115.231.106.236     test5.comment.plu.cn
+  115.231.106.236     test5.configapi.plu.cn
+  115.231.106.236     test5.eventapi.plu.cn
+  115.231.106.236     test5.feedapi.plu.cn
+  115.231.106.236     test5.giftapi.plu.cn
+  115.231.106.236     test5.qqvip.api.plu.cn
+  115.231.106.236     test5.spamapi.plu.cn
+  115.231.106.236     test5.task.u.plu.cn
+  115.231.106.236     test5.musicapi_corp.plu.cn
+  115.231.106.236     test5.private.api.plu.cn
+  115.231.106.236     test5.roomapicdn.plu.cn
+  115.231.106.236     test5.rankapi.longzhu.com
+  115.231.106.236     test5.livestream.plu.cn
+  115.231.106.236     test5.mb.tga.plu.cn
+  115.231.106.236     test5.tagapi.plu.cn
+  115.231.106.236     test5.searchapi.plu.cn
+  115.231.106.236     test5.userapi.plu.cn
+  115.231.106.236     test5.star.api.plu.cn
+  115.231.106.236     test5.star.apicdn.plu.cn
+  115.231.106.236     test5.admin.plu.cn
+  115.231.106.236     test5.star.longzhu.com
+  115.231.106.236     test5.pay.plu.cn
+  115.231.106.236     test5.setting.longzhu.com
+  115.231.106.236     test5.i.longzhu.com
+  115.231.106.236     test5.v.longzhu.com
+
+####----test6
+115.231.106.229     test6.bet.api.plu.cn
+115.231.106.229     test6.tga.plu.cn
+115.231.106.229     test6.longzhu.com
+115.231.106.229     test6.api.v.plu.cn
+115.231.106.229     test6.vote.plu.cn
+115.231.106.229     test6.vote.plu.cn
+115.231.106.229     test6.vote.longzhu.com
+115.231.106.229     test6.longzhu.com
+115.231.106.229     test6.www.plu.cn
+115.231.106.229     test6.cf.tga.plu.cn
+115.231.106.229     test6.lol.tga.plu.cn
+115.231.106.229     test6.g.longzhu.com
+115.231.106.229     test6.jzwl.game.plu.cn
+115.231.106.229     test6.olyra.plu.cn
+115.231.106.229     test6.family.longzhu.com
+115.231.106.229     test6.recruit.longzhu.com
+115.231.106.229     test6.cps.plu.cn
+115.231.106.229     test6.bet.api.longzhu.com
+115.231.106.229     test6.nz.tga.plu.cn
+115.231.106.229     test6.bigbang.longzhu.com
+115.231.106.229     test6.login.plu.cn
+115.231.106.229     test6.login.longzhu.com
+115.231.106.229     test6.olyra.longzhu.com
+
+115.231.106.229     test6.m.longzhu.com
+115.231.106.229     test6.admin.a4.plu.cn
+
+115.231.106.236     test6.a1.plu.cn
+115.231.106.236     test6.sixteen.plu.cn
+115.231.106.236     test6.comment.plu.cn
+115.231.106.236     test6.configapi.plu.cn
+115.231.106.236     test6.eventapi.plu.cn
+115.231.106.236     test6.feedapi.plu.cn
+115.231.106.236     test6.giftapi.plu.cn
+115.231.106.236     test6.qqvip.api.plu.cn
+115.231.106.236     test6.spamapi.plu.cn
+115.231.106.236     test6.task.u.plu.cn
+115.231.106.236     test6.log.plu.cn
+115.231.106.236     test6.musicapi.corp.plu.cn
+115.231.106.236     test6.private.api.plu.cn
+115.231.106.236     test6.roomapicdn.plu.cn
+115.231.106.236     test6.stream.plu.cn
+115.231.106.236     test6.interapi.plu.cn
+115.231.106.236     test6.mb.tga.plu.cn
+115.231.106.236     test6.tagapi.plu.cn
+115.231.106.236     test6.searchapi.plu.cn
+115.231.106.236     test6.userapi.plu.cn
+115.231.106.236     test6.star.api.plu.cn
+115.231.106.236     test6.star.apicdn.plu.cn
+115.231.106.236     test6.admin.plu.cn
+115.231.106.236     test6.star.longzhu.com
+115.231.106.236     test6.pay.plu.cn
+115.231.106.236     test6.setting.longzhu.com
+115.231.106.236     test6.i.longzhu.com
+115.231.106.236     test6.v.longzhu.com
+115.231.106.236     test6.musicapi_corp.plu.cn
+115.231.106.236     test6.livestream.plu.cn
+115.231.106.236     test6.rankapi.longzhu.com
+115.231.106.236     test6.houtai.tga.plu.cn
+
+
+115.231.106.242		r.plures.net
+
+120.25.98.72 yoyo.static.longzhu.com yoyo.web.longzhu.com yoyo.api.longzhu.com yoyo-api.longzhu.com
+
+
+
+# yoyo-app
+115.231.106.244 job.longzhu.com
+115.231.106.244 paas.longzhu.com
+115.231.106.244 cmdb.longzhu.com
+
+
+
+
+
+115.231.106.244 mbgo.plu.cn
+115.231.106.244 mbgo.longzhu.com
+115.231.106.244 imapi.longzhu.com
+115.231.106.244 imapi.plu.cn
+115.231.106.244 mbws.plu.cn
+115.231.106.244 mbgows.plu.cn
+115.231.106.244 mbws.longzhu.com
+115.231.106.244 mbgows.longzhu.com
+115.231.106.244 mservice.longzhu.com
+115.231.106.244 mservice.plu.cn
+
+
+#---.php
+
+115.231.106.244 bet.api.plu.cn
+115.231.106.244 tga.plu.cn
+115.231.106.244 api.v.plu.cn
+115.231.106.244 vote.plu.cn
+115.231.106.244 vote.plu.cn
+115.231.106.244 vote.longzhu.com
+115.231.106.244 longzhu.com
+115.231.106.244 www.plu.cn
+115.231.106.244 cf.tga.plu.cn
+115.231.106.244 lol.tga.plu.cn
+115.231.106.244 g.longzhu.com
+115.231.106.244 jzwl.game.plu.cn
+115.231.106.244 olyra.plu.cn
+115.231.106.244 family.longzhu.com
+115.231.106.244 login.longzhu.com
+115.231.106.244 login.plu.cn
+115.231.106.244 recruit.longzhu.com
+115.231.106.244 cps.plu.cn
+115.231.106.244 bet.api.longzhu.com
+115.231.106.244 nz.tga.plu.cn
+115.231.106.244 bigbang.longzhu.com
+115.231.106.244 olyra.longzhu.com
+115.231.106.244 m.longzhu.com
+115.231.106.244 admin.a4.plu.cn
+115.231.106.244 a4cdn.plu.cn
+115.231.106.244 a4.plu.cn
+115.231.106.244 api.plu.cn
+115.231.106.244 orion.plu.cn
+115.231.106.244 test.orion.plu.cn
+115.231.106.244 stark.longzhu.com
+115.231.106.244 thor.plu.cn
+115.231.106.244 www.longzhu.com
+
+#---.net
+115.231.106.244 a1.plu.cn
+115.231.106.244 sixteen.plu.cn
+115.231.106.244 comment.plu.cn
+115.231.106.244 configapi.plu.cn
+115.231.106.244 eventapi.plu.cn
+115.231.106.244 feedapi.plu.cn
+115.231.106.244 giftapi.plu.cn
+115.231.106.244 qqvip.api.plu.cn
+115.231.106.244 spamapi.plu.cn
+115.231.106.244 task.u.plu.cn
+115.231.106.244 log.plu.cn
+115.231.106.244 musicapi.corp.plu.cn
+115.231.106.244 private.api.plu.cn
+115.231.106.244 roomapicdn.plu.cn
+115.231.106.244 stream.plu.cn
+115.231.106.244 interapi.plu.cn
+115.231.106.244 mb.tga.plu.cn
+115.231.106.244 tagapi.plu.cn
+115.231.106.244 searchapi.plu.cn
+115.231.106.244 userapi.plu.cn
+115.231.106.244 star.api.plu.cn
+115.231.106.244 star.apicdn.plu.cn
+115.231.106.244 admin.plu.cn
+115.231.106.244 star.longzhu.com
+115.231.106.244 pay.plu.cn
+115.231.106.244 setting.longzhu.com
+115.231.106.244 i.longzhu.com
+115.231.106.244 v.longzhu.com
+115.231.106.244 musicapi_corp.plu.cn
+115.231.106.244 livestream.plu.cn
+115.231.106.244 rankapi.longzhu.com
+115.231.106.244 houtai.tga.plu.cn
+
+115.231.106.244 a2.longzhu.com
+115.231.106.244 api.longzhu.com
+115.231.106.244 api.v.longzhu.com
+115.231.106.244 comment.longzhu.com
+115.231.106.244 configapi.longzhu.com
+115.231.106.244 feedapi.longzhu.com
+115.231.106.244 giftapi.longzhu.com
+115.231.106.244 h5.longzhu.com
+115.231.106.244 liveapi.longzhu.com
+115.231.106.244 liveapi.plu.cn
+115.231.106.244 livestream.longzhu.com
+115.231.106.244 livestreamcdn.longzhu.com
+115.231.106.244 pay.longzhu.com
+115.231.106.244 playerlog.longzhu.com
+115.231.106.244 qqvipapi.longzhu.com
+115.231.106.244 roomapicdn.longzhu.com
+115.231.106.244 searchapi.longzhu.com
+115.231.106.244 spamapi.longzhu.com
+115.231.106.244 starapi.longzhu.com
+115.231.106.244 starapicdn.longzhu.com
+115.231.106.244 userapi.longzhu.com
+115.231.106.244 videoapi.longzhu.com
+115.231.106.244 zone.longzhu.com
+115.231.106.244 tasku.longzhu.com
+
+
+115.231.106.242 r.plures.net
+115.231.106.242 res.plures.net
+115.231.106.244 p.plures.net
+115.231.106.244 loger.plures.net
+115.231.106.242 chandao.com
+
+
+#yoyo.longzhu.com
+10.200.150.221 ios.plu.cn
+
+#120.25.98.72 yoyo.api.longzhu.com
+#120.25.98.72 yoyo-api.longzhu.com
+#120.25.98.72 yoyo.static.longzhu.com
+#120.25.98.72 yoyo.web.longzhu.com
+#120.25.98.72 test.yoyo.longzhu.com
+--------------------------------------------
+
+
+

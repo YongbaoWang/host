@@ -1,0 +1,132 @@
+#test 环境-go
+
+172.16.9.4 mbgo.plu.cn
+172.16.9.4 mbws.plu.cn
+172.16.9.4 mbgows.plu.cn
+172.16.9.4 mbgo.longzhu.com
+172.16.9.4 mbws.longzhu.com
+172.16.9.4 mbgows.longzhu.com
+
+
+172.16.9.4 test.mbgo.plu.cn
+172.16.9.4 test.mbws.plu.cn
+172.16.9.4 test.mbgows.plu.cn
+
+172.16.9.4 imapi.longzhu.com
+172.16.9.3 mservice.longzhu.com
+
+127.0.0.1 localhost
+127.0.0.1 a
+#test 环境-.net
+
+172.16.9.4 a1.plu.cn
+172.16.9.4 sixteen.plu.cn
+172.16.9.4 comment.plu.cn
+172.16.9.4 configapi.plu.cn
+172.16.9.4 eventapi.plu.cn
+172.16.9.4 feedapi.plu.cn
+172.16.9.4 giftapi.plu.cn
+172.16.9.4 qqvip.api.plu.cn
+172.16.9.4 spamapi.plu.cn
+172.16.9.4 task.u.plu.cn
+172.16.9.4 log.plu.cn
+172.16.9.4 musicapi.corp.plu.cn
+172.16.9.4 private.api.plu.cn
+172.16.9.4 roomapicdn.plu.cn
+172.16.9.4 stream.plu.cn
+172.16.9.4 interapi.plu.cn
+172.16.9.4 mb.tga.plu.cn
+172.16.9.4 tagapi.plu.cn
+172.16.9.4 searchapi.plu.cn
+172.16.9.4 userapi.plu.cn
+172.16.9.4 star.api.plu.cn
+172.16.9.4 star.apicdn.plu.cn
+172.16.9.4 admin.plu.cn
+172.16.9.4 pay.plu.cn
+172.16.9.4 musicapi_corp.plu.cn
+172.16.9.4 livestream.plu.cn
+172.16.9.4 api.v.plu.cn
+172.16.9.220 houtai.tga.plu.cn
+172.16.9.4 admin.plu.cn
+172.16.9.4 liveapi.plu.cn
+
+172.16.9.4 searchapi.longzhu.com
+172.16.9.4 star.longzhu.com
+172.16.9.4 setting.longzhu.com
+172.16.9.4 i.longzhu.com
+172.16.9.4 v.longzhu.com
+172.16.9.4 api.v.longzhu.com
+172.16.9.4 rankapi.longzhu.com
+172.16.9.4 starapicdn.longzhu.com 
+172.16.9.4 starapi.longzhu.com
+172.16.9.4 api.longzhu.com
+172.16.9.4 comment.longzhu.com
+172.16.9.4 mbtga.longzhu.com
+172.16.9.4 liveapi.longzhu.com
+#172.16.9.4 playerlog.longzhu.com
+172.16.9.4 livestream.longzhu.com
+172.16.9.4 livestreamcdn.longzhu.com
+172.16.9.4 a2.longzhu.com
+172.16.9.4 qqvipapi.longzhu.com
+172.16.9.4 videoapi.longzhu.com
+172.16.9.4 pay.longzhu.com
+172.16.9.4 feedapi.longzhu.com
+172.16.9.4 spamapi.longzhu.com
+172.16.9.4 giftapi.longzhu.com
+172.16.9.4 configapi.longzhu.com
+172.16.9.4 userapi.longzhu.com
+172.16.9.4 roomapicdn.longzhu.com
+172.16.9.220 test.admin.plu.cn
+172.16.9.4 tasku.longzhu.com
+
+
+#test 环境-php
+172.16.9.221 test.login.plu.cn
+172.16.9.221 api.plu.cn
+172.16.9.221 bet.api.plu.cn
+172.16.9.221 tga.plu.cn
+172.16.9.221 thor.plu.cn
+172.16.9.221 vote.plu.cn
+172.16.9.221 login.plu.cn 
+172.16.9.221 www.plu.cn
+172.16.9.221 cf.tga.plu.cn
+172.16.9.221 lol.tga.plu.cn
+172.16.9.221 jzwl.game.plu.cn
+172.16.9.221 olyra.plu.cn
+172.16.9.221 orion.plu.cn
+172.16.9.221 a4.plu.cn
+172.16.9.221 admin.a4.plu.cn
+172.16.9.221 test.admin.a4.plu.cn
+172.16.9.221 www.longzhu.com
+172.16.9.221 longzhu.com
+
+
+172.16.9.221 family.longzhu.com
+172.16.9.221 bet.api.longzhu.com
+172.16.9.221 m.longzhu.com
+172.16.9.221 g.longzhu.com
+172.16.9.221 longzhu.com
+172.16.9.221 stark.longzhu.com
+172.16.9.221 v.longzhu.com
+172.16.9.221 vote.longzhu.com
+172.16.9.221 login.longzhu.com 
+172.16.9.221 a4.longzhu.com
+172.16.9.221 m.longzhu.com
+
+172.16.9.221 h5.longzhu.com
+121.201.26.100 upload.plu.cn
+
+#test 环境-前端
+172.16.9.4 r.plures.net
+172.16.9.4 p.plures.net
+172.16.9.4 res.plures.net
+180.153.100.167 img2.plures.net
+180.153.100.141 img.plures.net
+121.201.26.106 loger.plures.net
+
+
+#test 环境-数据
+172.16.9.251 admin.analytics.plu.cn
+172.16.9.221 test.orion.plu.cn
+
+
