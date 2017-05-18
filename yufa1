@@ -18,18 +18,16 @@
 115.231.96.160		mb.tga.plu.cn
 115.231.96.160		rankapi.longzhu.com
 115.231.96.160		liveapi.plu.cn
-115.231.96.160		recruit.longzhu.com
+#115.231.96.160		recruit.longzhu.com
 115.231.96.160		cf.tga.plu.cn
-115.231.96.160		roomapicdn.plu.cn
-115.231.96.160		roomapicdn.longzhu.com
-115.231.96.138		imapi.longzhu.com
+#115.231.96.160		roomapicdn.plu.cn
+#115.231.96.160		roomapicdn.longzhu.com
+#115.231.96.138		imapi.longzhu.com
 115.231.96.160		userapi.plu.cn
 115.231.96.160		liveapi.longzhu.com
 115.231.96.160		houtai.tga.plu.cn
 115.231.96.160		userapi.plu.cn
-115.231.96.160      livestream.plu.cn
-115.231.96.160 		configapi.plu.cn
-115.231.96.160 		configapi.longzhu.com
+115.231.96.160          livestream.plu.cn
 
 #115.231.106.234	star.longzhu.com         	
 #115.231.106.234	setting.longzhu.com        	
@@ -105,4 +103,7 @@
 10.200.150.221 ios.plu.cn
 115.231.96.148 baoming.corp.plu.cn
 
-
+120.25.98.72 yoyo.api.longzhu.com
+120.25.98.72 yoyo-api.longzhu.com
+120.25.98.72 yoyo.static.longzhu.com
+120.25.98.72 yoyo.web.longzhu.com
