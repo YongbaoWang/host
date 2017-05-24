@@ -31,10 +31,10 @@
 115.231.106.240 mbgows.longzhu.com
 115.231.106.240 mservice.longzhu.com
 115.231.106.240 mservice.plu.cn
-115.231.106.240	test.searchapi.plu.cn
-115.231.106.240	test.searchapi.longzhu.com
-115.231.106.240	searchapi.plu.cn
-115.231.106.240	searchapi.longzhu.com
+115.231.106.236	test.searchapi.plu.cn
+115.231.106.236	test.searchapi.longzhu.com
+115.231.106.244	searchapi.plu.cn
+115.231.106.244	searchapi.longzhu.com
 
 #---.php
 
