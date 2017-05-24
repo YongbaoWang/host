@@ -58,7 +58,7 @@
 115.231.106.240		test5.mservice.longzhu.com
 115.231.106.240 	mservice.plu.cn
 115.231.106.240		test.searchapi.plu.cn
-
+115.231.106.240		test.searchapi.longzhu.com
 
 
 #---.php
@@ -150,7 +150,6 @@
 115.231.106.236		test.playerlog.longzhu.com
 115.231.106.236		test.qqvipapi.longzhu.com
 115.231.106.236		test.roomapicdn.longzhu.com
-115.231.106.236		test.searchapi.longzhu.com
 115.231.106.236		test.spamapi.longzhu.com
 115.231.106.236		test.starapi.longzhu.com
 115.231.106.236		test.starapicdn.longzhu.com
@@ -209,7 +208,6 @@
 115.231.106.236		test1.interapi.plu.cn
 115.231.106.236		test1.mb.tga.plu.cn
 115.231.106.236		test1.tagapi.plu.cn
-115.231.106.236		test1.searchapi.plu.cn
 115.231.106.236		test1.userapi.plu.cn
 115.231.106.236		test1.star.api.plu.cn
 115.231.106.236		test1.star.apicdn.plu.cn
@@ -270,7 +268,6 @@
 115.231.106.236		test2.interapi.plu.cn
 115.231.106.236		test2.mb.tga.plu.cn
 115.231.106.236		test2.tagapi.plu.cn
-115.231.106.236		test2.searchapi.plu.cn
 115.231.106.236		test2.userapi.plu.cn
 115.231.106.236		test2.star.api.plu.cn
 115.231.106.236		test2.star.apicdn.plu.cn
@@ -333,7 +330,6 @@
 115.231.106.236		test4.interapi.plu.cn
 115.231.106.236		test4.mb.tga.plu.cn
 115.231.106.236		test4.tagapi.plu.cn
-115.231.106.236		test4.searchapi.plu.cn
 115.231.106.236		test4.userapi.plu.cn
 115.231.106.236		test4.star.api.plu.cn
 115.231.106.236		test4.star.apicdn.plu.cn
@@ -394,7 +390,6 @@
 115.231.106.236		test3.interapi.plu.cn
 115.231.106.236		test3.mb.tga.plu.cn
 115.231.106.236		test3.tagapi.plu.cn
-115.231.106.236		test3.searchapi.plu.cn
 115.231.106.236		test3.userapi.plu.cn
 115.231.106.236		test3.star.api.plu.cn
 115.231.106.236		test3.star.apicdn.plu.cn
@@ -455,7 +450,6 @@
 115.231.106.236		test6.interapi.plu.cn
 115.231.106.236		test6.mb.tga.plu.cn
 115.231.106.236		test6.tagapi.plu.cn
-115.231.106.236		test6.searchapi.plu.cn
 115.231.106.236		test6.userapi.plu.cn
 115.231.106.236		test6.star.api.plu.cn
 115.231.106.236		test6.star.apicdn.plu.cn
@@ -518,7 +512,6 @@
 115.231.106.236		test7.interapi.plu.cn
 115.231.106.236		test7.mb.tga.plu.cn
 115.231.106.236		test7.tagapi.plu.cn
-115.231.106.236		test7.searchapi.plu.cn
 115.231.106.236		test7.userapi.plu.cn
 115.231.106.236		test7.star.api.plu.cn
 115.231.106.236		test7.star.apicdn.plu.cn

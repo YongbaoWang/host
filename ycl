@@ -163,6 +163,17 @@
 115.231.106.229		test.a4cdn.plu.cn
 115.231.106.236         test.mbtga.longzhu.com
 
+#ÓÆÓÆµÄhost
+120.25.98.72 yoyo-api.longzhu.com
+120.25.98.72 yoyo.api.longzhu.com
+120.25.98.72 yoyo.static.longzhu.com
+120.25.98.72 yoyo.web.longzhu.com
+120.25.98.72 test.yoyo.longzhu.com
+120.25.98.72 y.longzhu.com
+120.25.98.72 test.y.longzhu.com
+
+115.231.106.241 schweizermesser.longzhu.com
+115.231.106.241 schweizermesser-ui.longzhu.com
 
 ####----test1
 115.231.106.229		test1.bet.api.plu.cn
