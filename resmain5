@@ -68,8 +68,10 @@
 115.231.106.237 a4.longzhu.com
 
 115.231.106.237 api.plu.cn
-115.231.106.237 orion.plu.cn
-115.231.106.237 test.orion.plu.cn
+115.231.106.244 orion.plu.cn
+115.231.106.244 test.orion.plu.cn
+115.231.106.244 orion.longzhu.com
+115.231.106.244 test.orion.longzhu.com
 115.231.106.237 stark.longzhu.com
 115.231.106.237 thor.plu.cn
 115.231.106.237 www.longzhu.com
@@ -79,6 +81,7 @@
 115.231.106.237 sixteen.plu.cn
 115.231.106.237 comment.plu.cn
 115.231.106.237 configapi.plu.cn
+115.231.106.237 eventapi.longzhu.com
 115.231.106.237 eventapi.plu.cn
 115.231.106.237 feedapi.plu.cn
 115.231.106.237 giftapi.plu.cn
