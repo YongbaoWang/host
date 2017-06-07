@@ -13,18 +13,30 @@
 115.231.106.240		test3.mbgo.plu.cn
 115.231.106.240		test4.mbgo.plu.cn
 115.231.106.240		test5.mbgo.plu.cn
+115.231.106.240		test6.mbgo.plu.cn
+115.231.106.240		test7.mbgo.plu.cn
+115.231.106.240		test8.mbgo.plu.cn
+115.231.106.240		test9.mbgo.plu.cn
 115.231.106.240		test.mbgo.longzhu.com
 115.231.106.240		test1.mbgo.longzhu.com
 115.231.106.240		test2.mbgo.longzhu.com
 115.231.106.240		test3.mbgo.longzhu.com
 115.231.106.240		test4.mbgo.longzhu.com
 115.231.106.240		test5.mbgo.longzhu.com
+115.231.106.240		test6.mbgo.longzhu.com
+115.231.106.240		test7.mbgo.longzhu.com
+115.231.106.240		test8.mbgo.longzhu.com
+115.231.106.240		test9.mbgo.longzhu.com
 115.231.106.240		test.imapi.longzhu.com
 115.231.106.240		test1.imapi.longzhu.com
 115.231.106.240		test2.imapi.longzhu.com
 115.231.106.240		test3.imapi.longzhu.com
 115.231.106.240		test4.imapi.longzhu.com
 115.231.106.240		test5.imapi.longzhu.com
+115.231.106.240		test6.imapi.longzhu.com
+115.231.106.240		test7.imapi.longzhu.com
+115.231.106.240		test8.imapi.longzhu.com
+115.231.106.240		test9.imapi.longzhu.com
 115.231.106.240		test.mbws.plu.cn
 115.231.106.240		test.mbgows.plu.cn
 115.231.106.240		test1.mbws.plu.cn
@@ -37,6 +49,14 @@
 115.231.106.240		test4.mbgows.plu.cn
 115.231.106.240		test5.mbws.plu.cn
 115.231.106.240		test5.mbgows.plu.cn
+115.231.106.240		test6.mbws.plu.cn
+115.231.106.240		test6.mbgows.plu.cn
+115.231.106.240		test7.mbws.plu.cn
+115.231.106.240		test7.mbgows.plu.cn
+115.231.106.240		test8.mbws.plu.cn
+115.231.106.240		test8.mbgows.plu.cn
+115.231.106.240		test9.mbws.plu.cn
+115.231.106.240		test9.mbgows.plu.cn
 115.231.106.240		test.mbws.longzhu.com
 115.231.106.240		test.mbgows.longzhu.com
 115.231.106.240		test1.mbws.longzhu.com
@@ -49,6 +69,15 @@
 115.231.106.240		test4.mbgows.longzhu.com
 115.231.106.240		test5.mbws.longzhu.com
 115.231.106.240		test5.mbgows.longzhu.com
+115.231.106.240		test6.mbws.longzhu.com
+115.231.106.240		test6.mbgows.longzhu.com
+115.231.106.240		test7.mbws.longzhu.com
+115.231.106.240		test7.mbgows.longzhu.com
+115.231.106.240		test8.mbws.longzhu.com
+115.231.106.240		test8.mbgows.longzhu.com
+115.231.106.240		test9.mbws.longzhu.com
+115.231.106.240		test9.mbgows.longzhu.com
+
 
 
 
@@ -58,6 +87,10 @@
 115.231.106.240		test3.mservice.longzhu.com
 115.231.106.240		test4.mservice.longzhu.com
 115.231.106.240		test5.mservice.longzhu.com
+115.231.106.240		test6.mservice.longzhu.com
+115.231.106.240		test7.mservice.longzhu.com
+115.231.106.240		test8.mservice.longzhu.com
+115.231.106.240		test9.mservice.longzhu.com
 115.231.106.240 	mservice.plu.cn
 115.231.106.240		test.searchapi.plu.cn
 
@@ -96,9 +129,13 @@
 115.231.106.229		test.admin.a4.plu.cn
 115.231.106.229		test.api.longzhu.com
 
+10.200.150.3            test.static.longzhu.com
+
 115.231.106.229		test.api.plu.cn
 115.231.106.229		test.orion.plu.cn
-115.231.106.229		test.stark.longzhu.com
+#115.231.106.229		test.stark.longzhu.com
+10.200.150.230	test.stark.longzhu.com
+
 115.231.106.229		test.thor.plu.cn
 115.231.106.229		test.www.longzhu.com
 115.231.106.229 	test.admin.analytics.plu.cn
@@ -688,7 +725,7 @@
 115.231.106.236		test9.interapi.plu.cn
 115.231.106.236		test9.mb.tga.plu.cn
 115.231.106.236		test9.tagapi.plu.cn
-115.231.106.236		test9.userapi.plu.cn
+#115.231.106.236		test9.userapi.plu.cn
 115.231.106.236		test9.star.api.plu.cn
 115.231.106.236		test9.star.apicdn.plu.cn
 115.231.106.236		test9.admin.plu.cn
@@ -721,7 +758,7 @@
 115.231.106.236		test9.spamapi.longzhu.com
 115.231.106.236		test9.starapi.longzhu.com
 115.231.106.236		test9.starapicdn.longzhu.com
-115.231.106.236		test9.userapi.longzhu.com
+#115.231.106.236		test9.userapi.longzhu.com
 115.231.106.236		test9.videoapi.longzhu.com
 115.231.106.236		test9.zone.longzhu.com
 115.231.106.236		test9.tasku.longzhu.com

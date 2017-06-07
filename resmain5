@@ -1,7 +1,7 @@
 #资源文件  仅一套
-115.231.106.242 r.plures.net
+115.231.106.244 r.plures.net
 115.231.106.242 res.plures.net
-115.231.106.242 p.plures.net
+115.231.106.244 p.plures.net
 115.231.106.242 loger.plures.net
 115.231.106.242 chandao.com
 
@@ -16,21 +16,20 @@
 115.231.106.241 schweizermesser.longzhu.com
 115.231.106.241 schweizermesser-ui.longzhu.com
 
-
 #Go 仅一套
-115.231.106.240 job.longzhu.com
-115.231.106.240 paas.longzhu.com
-115.231.106.240 cmdb.longzhu.com
-115.231.106.240 mbgo.plu.cn
-115.231.106.240 mbgo.longzhu.com
-115.231.106.240 imapi.longzhu.com
-115.231.106.240 imapi.plu.cn
-115.231.106.240 mbws.plu.cn
-115.231.106.240 mbgows.plu.cn
-115.231.106.240 mbws.longzhu.com
-115.231.106.240 mbgows.longzhu.com
-115.231.106.240 mservice.longzhu.com
-115.231.106.240 mservice.plu.cn
+115.231.106.244 job.longzhu.com
+115.231.106.244 paas.longzhu.com
+115.231.106.244 cmdb.longzhu.com
+115.231.106.244 mbgo.plu.cn
+115.231.106.244 mbgo.longzhu.com
+115.231.106.244 imapi.longzhu.com
+115.231.106.244 imapi.plu.cn
+115.231.106.244 mbws.plu.cn
+115.231.106.244 mbgows.plu.cn
+115.231.106.244 mbws.longzhu.com
+115.231.106.244 mbgows.longzhu.com
+115.231.106.244 mservice.longzhu.com
+115.231.106.244 mservice.plu.cn
 115.231.106.236	test.searchapi.plu.cn
 115.231.106.236	test.searchapi.longzhu.com
 115.231.106.244	searchapi.plu.cn
@@ -124,7 +123,7 @@
 115.231.106.237 livestream.longzhu.com
 115.231.106.237 livestreamcdn.longzhu.com
 115.231.106.237 pay.longzhu.com
-115.231.106.237 playerlog.longzhu.com
+115.231.106.244 playerlog.longzhu.com
 115.231.106.237 qqvipapi.longzhu.com
 115.231.106.237 roomapicdn.longzhu.com
 115.231.106.237 spamapi.longzhu.com
