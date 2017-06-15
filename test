@@ -135,6 +135,7 @@
 115.231.106.236		test.rankapi.longzhu.com
 115.231.106.236		test.houtai.tga.plu.cn
 115.231.106.236		test.mbtga.longzhu.com
+115.231.106.236 	test.sportsapi.longzhu.com
 
 115.231.106.236		test.a2.longzhu.com
 115.231.106.236		test.api.v.longzhu.com
@@ -221,6 +222,7 @@
 115.231.106.236		test1.livestream.plu.cn
 115.231.106.236		test1.rankapi.longzhu.com
 115.231.106.236		test1.houtai.tga.plu.cn
+115.231.106.236 	test1.sportsapi.longzhu.com
 
 ####---test2
 115.231.106.229		test2.bet.api.plu.cn
@@ -283,6 +285,8 @@
 115.231.106.236		test2.houtai.tga.plu.cn
 115.231.106.236		test2.liveapi.longzhu.com
 115.231.106.236		test2.liveapi.plu.cn
+115.231.106.236 	test2.sportsapi.longzhu.com
+
 
 ###------test4
 115.231.106.229		test4.bet.api.plu.cn
@@ -343,6 +347,7 @@
 115.231.106.236		test4.livestream.plu.cn
 115.231.106.236		test4.rankapi.longzhu.com
 115.231.106.236		test4.houtai.tga.plu.cn
+115.231.106.236 	test4.sportsapi.longzhu.com
 
 ###----test3
 115.231.106.229		test3.bet.api.plu.cn
@@ -403,6 +408,7 @@
 115.231.106.236		test3.livestream.plu.cn
 115.231.106.236		test3.rankapi.longzhu.com
 115.231.106.236		test3.houtai.tga.plu.cn
+115.231.106.236 	test3.sportsapi.longzhu.com
 
 ###----test6
 115.231.106.229		test6.bet.api.plu.cn
@@ -463,6 +469,7 @@
 115.231.106.236		test6.livestream.plu.cn
 115.231.106.236		test6.rankapi.longzhu.com
 115.231.106.236		test6.houtai.tga.plu.cn
+115.231.106.236 	test6.sportsapi.longzhu.com
 
 ###----test7
 115.231.106.229		test7.bet.api.plu.cn
@@ -525,6 +532,7 @@
 115.231.106.236		test7.livestream.plu.cn
 115.231.106.236		test7.rankapi.longzhu.com
 115.231.106.236		test7.houtai.tga.plu.cn
+115.231.106.236 	test7.sportsapi.longzhu.com
 
 
 115.231.106.229 test4.stark.longzhu.com
