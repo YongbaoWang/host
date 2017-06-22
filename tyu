@@ -212,7 +212,78 @@
 
 
 
-
+##体育
+#体育接口
+# test1
+115.231.106.236 test2.roomapicdn.longzhu.com
+115.231.106.236 test1.pay.plu.cn
+115.231.106.240  test1.mservice.longzhu.com
+115.231.106.240  test1.imapi.longzhu.com
+115.231.106.236 test1.mbgo.plu.cn
+115.231.106.240 test1.mbws.plu.cn
+115.231.106.240 mbws.plu.cn
+115.231.106.242 r.plures.net
+115.231.106.229 test1.vote.longzhu.com
+115.231.106.229 test1.api.plu.cn
+115.231.106.229 test1.h5.longzhu.com
+115.231.106.229 login.longzhu.com
+115.231.106.236 test1.userapi.plu.cn
+115.231.106.236 test1.liveapi.plu.cn
+115.231.106.236 test1.a1.plu.cn
+115.231.106.236 test1.sixteen.plu.cn
+115.231.106.236 test1.comment.plu.cn
+115.231.106.236 test1.configapi.plu.cn
+115.231.106.236 test1.feedapi.plu.cn
+115.231.106.236 test1.giftapi.plu.cn
+115.231.106.236 test1.qqvip.api.plu.cn
+115.231.106.236 test1.spamapi.plu.cn
+115.231.106.236 test1.task.u.plu.cn
+115.231.106.236 test1.log.plu.cn
+115.231.106.236 test1.musicapi.corp.plu.cn
+115.231.106.236 test1.private.api.plu.cn
+115.231.106.236 test1.roomapicdn.plu.cn
+115.231.106.236 test1.stream.plu.cn
+115.231.106.236 test1.interapi.plu.cn
+115.231.106.236 test1.mb.tga.plu.cn
+115.231.106.236 test1.tagapi.plu.cn
+115.231.106.236 test1.searchapi.plu.cn
+115.231.106.236 test1.userapi.plu.cn
+115.231.106.236 test1.star.api.plu.cn
+115.231.106.236 test1.star.apicdn.plu.cn
+115.231.106.236 test1.admin.plu.cn
+115.231.106.236 test1.star.longzhu.com
+115.231.106.236 test1.pay.plu.cn
+115.231.106.236 test1.setting.longzhu.com
+115.231.106.236 test1.i.longzhu.com
+115.231.106.229 test1.m.longzhu.com
+115.231.106.236 test1.musicapi_corp.plu.cn
+115.231.106.236 test1.musicapi_corp.plu.cn
+115.231.106.236 test1.livestream.plu.cn
+115.231.106.236 test1.rankapi.longzhu.com
+115.231.106.236 test1.eventapi.plu.cn
+115.231.106.236 test1.zone.longzhu.com
+115.231.106.236 test1.pay.longzhu.com
+115.231.106.229 test1.vote.plu.cn 
+115.231.106.229 test1.bet.api.plu.cn
+115.231.106.229 test1.tga.plu.cn
+115.231.106.229 test1.longzhu.com
+115.231.106.229 test1.api.v.plu.cn
+115.231.106.229 test1.vote.plu.cn
+115.231.106.229 test1.vote.plu.cn
+115.231.106.229 test1.vote.longzhu.com
+115.231.106.229 test1.longzhu.com
+115.231.106.229 test1.www.plu.cn
+115.231.106.229 test1.cf.tga.plu.cn
+115.231.106.229 test1.lol.tga.plu.cn
+115.231.106.229 test1.music.longzhu.com
+115.231.106.229 test1.recruit.longzhu.com
+115.231.106.229 test1.family.longzhu.com
+115.231.106.229 test1.bigbang.longzhu.com
+115.231.106.229 test1.stark.longzhu.com
+115.231.106.229 test1.longzhu.com
+115.231.106.229 test1.bet.api.longzhu.com
+115.231.106.229 test1.v.longzhu.com
+115.231.106.236 test1.userapi.longzhu.com
 #yoyo的host
 120.25.98.72 test1.yoyo-api.longzhu.com
 120.25.98.72 test1.y.longzhu.com
@@ -224,3 +295,14 @@
 120.25.98.72 y.longzhu.com
 120.25.98.72 test1.y.longzhu.com
 
+
+#体育首页
+115.231.106.236 test1.sportsapi.longzhu.com
+10.200.150.3 test.event.longzhu.com
+115.231.106.242 r.plures.net
+115.231.106.229 test.api.longzhu.com
+10.200.150.3 test1.event.longzhu.com
+115.231.106.229 test1.api.longzhu.com
+#NZ
+115.231.106.236 test4.star.longzhu.com
+115.231.106.242 r.plures.net

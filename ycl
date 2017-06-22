@@ -277,6 +277,13 @@
 115.231.106.236		test1.houtai.tga.plu.cn
 115.231.106.236		test1.userapi.longzhu.com
 115.231.106.236         test1.sportsapi.longzhu.com
+115.231.106.240         test1.mservice.longzhu.com
+
+120.25.98.72 test1.y.longzhu.com
+120.25.98.72 test1.yoyo.longzhu.com
+120.25.98.72 test1.yoyo-api.longzhu.com
+120.25.98.72 test1.yoyo.static.longzhu.com
+
 
 ####---test2
 115.231.106.229		test2.bet.api.plu.cn

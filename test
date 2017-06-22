@@ -2,6 +2,7 @@
 115.231.106.246		paas.longzhu.com
 115.231.106.246		cmdb.longzhu.com
 115.231.106.236     test1.sportsapi.longzhu.com
+115.231.106.236     test.sportsapi.longzhu.com
 
 115.231.106.240		mbws.plu.cn
 115.231.106.240		mbgows.plu.cn
@@ -223,6 +224,21 @@
 115.231.106.236		test1.rankapi.longzhu.com
 115.231.106.236		test1.houtai.tga.plu.cn
 115.231.106.236 	test1.sportsapi.longzhu.com
+115.231.106.236 	test1.userapi.longzhu.com
+
+
+#体育首页
+115.231.106.236 test1.sportsapi.longzhu.com
+10.200.150.3 test.event.longzhu.com
+115.231.106.242 r.plures.net
+115.231.106.229 test.api.longzhu.com
+10.200.150.3 test1.event.longzhu.com
+115.231.106.229 test1.api.longzhu.com
+#NZ
+115.231.106.236 test4.star.longzhu.com
+115.231.106.242 r.plures.net
+
+
 
 ####---test2
 115.231.106.229		test2.bet.api.plu.cn
