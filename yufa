@@ -73,13 +73,16 @@
 115.231.96.148		www.longzhu.com
 #115.231.96.249		houtai.tga.plu.cn
 115.231.96.160		admin.a4.plu.cn
-115.231.96.148           recruit.longzhu.com
+115.231.96.148      recruit.longzhu.com
 115.231.96.148		api.longzhu.com
+115.231.96.148 		login.longzhu.com
+115.231.96.148 		login.plu.cn
+
 
 #ÈüÊÂÅäÖÃ
 115.231.96.146		schedules.plu.cn
 
-#115.231.106.241		r.plures.net
+#115.231.106.241 	r.plures.net
 115.231.106.242		r.plures.net
 
 115.231.96.160		pre.admin.plu.cn
