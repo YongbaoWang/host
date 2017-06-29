@@ -9,13 +9,8 @@
 115.231.106.242 chandao.com
 
 
-#我加的
-115.231.106.236 test2.roomapicdn.longzhu.com
-115.231.106.236 test1.roomapicdn.longzhu.com
 #体育接口
 # test1
-10.200.150.3 test1.event.longzhu.com
-115.231.106.236 test1.sportsapi.longzhu.com
 115.231.106.236 test1.pay.plu.cn
 115.231.106.240  test1.mservice.longzhu.com
 115.231.106.240  test1.imapi.longzhu.com
@@ -84,6 +79,12 @@
 115.231.106.229 test1.bet.api.longzhu.com
 115.231.106.229 test1.v.longzhu.com
 115.231.106.236 test1.userapi.longzhu.com
+
+
+#我加的
+115.231.106.236 test2.roomapicdn.longzhu.com
+115.231.106.236 test1.roomapicdn.longzhu.com
+
 
 ///
 #悠悠Host
