@@ -51,15 +51,23 @@
 
 
 
-115.231.106.240		test.mservice.longzhu.com
-115.231.106.240		test1.mservice.longzhu.com
-115.231.106.240		test2.mservice.longzhu.com
-115.231.106.240		test3.mservice.longzhu.com
-115.231.106.240		test4.mservice.longzhu.com
-115.231.106.240		test5.mservice.longzhu.com
+115.231.106.240		test.mservices.longzhu.com
+115.231.106.240		test1.mservices.longzhu.com
+115.231.106.240		test2.mservices.longzhu.com
+115.231.106.240		test3.mservices.longzhu.com
+115.231.106.240		test4.mservices.longzhu.com
+115.231.106.240		test5.mservices.longzhu.com
+115.231.106.240		test.mservices.plu.cn
+115.231.106.240		test1.mservices.plu.cn
+115.231.106.240		test2.mservices.plu.cn
+115.231.106.240		test3.mservices.plu.cn
+115.231.106.240		test4.mservices.plu.cn
+115.231.106.240		test5.mservices.plu.cn
+
 115.231.106.240 	mservice.plu.cn
 115.231.106.236		test.searchapi.plu.cn
 115.231.106.236		test.searchapi.longzhu.com
+test.mservices.plu.cn
 
 
 #---.php
@@ -230,13 +238,11 @@
 #体育首页
 115.231.106.236 test1.sportsapi.longzhu.com
 10.200.150.3 test.event.longzhu.com
-115.231.106.242 r.plures.net
 115.231.106.229 test.api.longzhu.com
 10.200.150.3 test1.event.longzhu.com
 115.231.106.229 test1.api.longzhu.com
 #NZ
 115.231.106.236 test4.star.longzhu.com
-115.231.106.242 r.plures.net
 
 
 
@@ -556,7 +562,10 @@
 10.200.150.221 ios.plu.cn
 
 115.231.106.242		chandao.com
-115.231.106.242		r.plures.net
+115.231.106.226		r.plures.net
+115.231.106.226		res.plures.net
+115.231.106.226		p.plures.net
+
 10.200.150.3            test.static.longzhu.com
 
 #悠悠的host

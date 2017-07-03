@@ -25,13 +25,13 @@
 115.231.96.138		imapi.longzhu.com
 115.231.96.160		userapi.plu.cn
 115.231.96.160		liveapi.longzhu.com
-#115.231.96.160		houtai.tga.plu.cn
+115.231.96.160		houtai.tga.plu.cn
 115.231.96.160		userapi.plu.cn
 115.231.96.160      livestream.plu.cn
 115.231.96.160 		configapi.plu.cn
 115.231.96.160 		configapi.longzhu.com
 115.231.96.160      giftapi.longzhu.com
-115.231.96.160  sportsapi.longzhu.com
+#115.231.96.160      sportsapi.longzhu.com
 #115.231.106.234	star.longzhu.com         	
 #115.231.106.234	setting.longzhu.com        	
 #115.231.106.234	giftapi.plu.cn				
@@ -83,8 +83,8 @@
 #»¸ ¬≈‰÷√
 115.231.96.146		schedules.plu.cn
 
-#115.231.106.241 	r.plures.net
-115.231.106.242		r.plures.net
+115.231.106.241 	r.plures.net
+#115.231.106.242		r.plures.net
 
 115.231.96.160		pre.admin.plu.cn
 115.231.96.160		zone.longzhu.com
