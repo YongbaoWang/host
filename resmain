@@ -16,6 +16,8 @@
 115.231.106.236	test.searchapi.longzhu.com
 115.231.106.244	searchapi.plu.cn
 115.231.106.244	searchapi.longzhu.com
+115.231.106.240 test.mbws.plu.cn
+
 
 #---.php
 
@@ -120,7 +122,6 @@
 
 115.231.106.244 r.plures.net
 115.231.106.244 res.plures.net
-115.231.106.244 p.plures.net
 115.231.106.244 loger.plures.net
 
 
@@ -215,16 +216,25 @@
 
 
 
-#yoyo的host
-120.25.98.72 test1.yoyo-api.longzhu.com
-120.25.98.72 test1.y.longzhu.com
+#悠悠的host
 120.25.98.72 yoyo-api.longzhu.com
 120.25.98.72 yoyo.api.longzhu.com
 120.25.98.72 yoyo.static.longzhu.com
-120.25.98.72 test1.yoyo.static.longzhu.com
 120.25.98.72 yoyo.web.longzhu.com
-120.25.98.72 test1.yoyo.longzhu.com
+120.25.98.72 test.yoyo.longzhu.com
 120.25.98.72 y.longzhu.com
+120.25.98.72 test.yoyo.longzhu.com
 120.25.98.72 test1.y.longzhu.com
+120.25.98.72 test1.yoyo.longzhu.com
+120.25.98.72 test1.yoyo-api.longzhu.com
+120.25.98.72 test1.yoyo.static.longzhu.com
+120.25.98.72 test2.y.longzhu.com
+120.25.98.72 test2.yoyo.longzhu.com
+120.25.98.72 test2.yoyo-api.longzhu.com
+120.25.98.72 test2.yoyo.static.longzhu.com
+120.25.98.72 test.y.longzhu.com
+120.25.98.72 test.yoyo.longzhu.com
+120.25.98.72 test.yoyo-api.longzhu.com
+120.25.98.72 test.yoyo.static.longzhu.com
 
 

@@ -1,63 +1,38 @@
 
 #.net预发布
-115.231.96.160		star.longzhu.com
-115.231.96.160		setting.longzhu.com
-115.231.96.160		giftapi.plu.cn
-115.231.96.160		feedapi.plu.cn
-115.231.96.160		spamapi.plu.cn
-115.231.96.160		task.u.plu.cn
-115.231.96.160		tagapi.plu.cn
-115.231.96.160		searchapi.plu.cn
-115.231.96.160		star.api.plu.cn
-115.231.96.160		pre.admin.plu.cn
-115.231.96.160		houtai.tga.plu.cn
-115.231.96.160		pay.plu.cn
-115.231.96.160		i.longzhu.com
-115.231.96.160		v.longzhu.com
-115.231.96.160		eventapi.plu.cn 
-115.231.96.160		mb.tga.plu.cn
-115.231.96.160		rankapi.longzhu.com
-115.231.96.160		liveapi.plu.cn
+115.231.106.227		star.longzhu.com
+115.231.106.227		setting.longzhu.com
+115.231.106.227		giftapi.plu.cn
+115.231.106.227		feedapi.plu.cn
+115.231.106.227		spamapi.plu.cn
+115.231.106.227		task.u.plu.cn
+115.231.106.227		tagapi.plu.cn
+115.231.106.227		searchapi.plu.cn
+115.231.106.227		star.api.plu.cn
+115.231.106.227		pre.admin.plu.cn
+115.231.106.227		houtai.tga.plu.cn
+115.231.106.227		pay.plu.cn
+115.231.106.227		i.longzhu.com
+115.231.106.227		v.longzhu.com
+115.231.106.227		eventapi.plu.cn 
+115.231.106.227		mb.tga.plu.cn
+115.231.106.227		rankapi.longzhu.com
+115.231.106.227		liveapi.plu.cn
 
-115.231.96.160		cf.tga.plu.cn
-115.231.96.160		roomapicdn.plu.cn
-115.231.96.160		roomapicdn.longzhu.com
-115.231.96.138		imapi.longzhu.com
-115.231.96.160		userapi.plu.cn
-115.231.96.160		liveapi.longzhu.com
-115.231.96.160		houtai.tga.plu.cn
-115.231.96.160		userapi.plu.cn
-115.231.96.160      livestream.plu.cn
-115.231.96.160 		configapi.plu.cn
-115.231.96.160 		configapi.longzhu.com
-115.231.96.160      giftapi.longzhu.com
-#115.231.96.160      sportsapi.longzhu.com
-#115.231.106.234	star.longzhu.com         	
-#115.231.106.234	setting.longzhu.com        	
-#115.231.106.234	giftapi.plu.cn				
-#115.231.106.234	feedapi.plu.cn
-#115.231.106.234	spamapi.plu.cn
-#115.231.106.234	task.u.plu.cn					
-#115.231.106.234	tagapi.plu.cn
-#115.231.106.234	searchapi.plu.cn
-#115.231.106.234	star.api.plu.cn				
-#115.231.106.234	pre.admin.plu.cn
-#115.231.106.234	houtai.tga.plu.cn
-#115.231.106.234	pay.plu.cn
-#115.231.106.234	i.longzhu.com
-#115.231.106.234	v.longzhu.com
-#115.231.106.234	eventapi.plu.cn 				
-#115.231.106.234	mb.tga.plu.cn					
-#115.231.106.234	rankapi.longzhu.com			
-#115.231.106.234	admin.a4.plu.cn				
-#115.231.106.234	liveapi.plu.cn				
-#115.231.106.234	recruit.longzhu.com			
-#115.231.106.234	cf.tga.plu.cn
-#115.231.106.234	roomapicdn.plu.cn				
-#115.231.106.234	imapi.longzhu.come 
-#115.231.106.234	liveapi.longzhu.com			
-#115.231.106.234	houtai.tga.plu.cn				
-#115.231.106.234	userapi.plu.cn				
+115.231.106.227		cf.tga.plu.cn
+115.231.106.227		roomapicdn.plu.cn
+115.231.106.227		roomapicdn.longzhu.com
+115.231.106.227		imapi.longzhu.com
+115.231.106.227		userapi.plu.cn
+115.231.106.227		liveapi.longzhu.com
+115.231.106.227		houtai.tga.plu.cn
+115.231.106.227		userapi.plu.cn
+115.231.106.227      livestream.plu.cn
+115.231.106.227 		configapi.plu.cn
+115.231.106.227 		configapi.longzhu.com
+115.231.106.227      giftapi.longzhu.com
+115.231.106.227     sportsapi.longzhu.com
+			
 
 
 
@@ -73,7 +48,7 @@
 115.231.96.148		longzhu.com
 115.231.96.148		www.longzhu.com
 #115.231.96.249		houtai.tga.plu.cn
-115.231.96.160		admin.a4.plu.cn
+115.231.96.148		admin.a4.plu.cn
 115.231.96.148      recruit.longzhu.com
 115.231.96.148		api.longzhu.com
 115.231.96.148 		login.longzhu.com
@@ -87,29 +62,29 @@
 115.231.106.241 	r.plures.net
 #115.231.106.242		r.plures.net
 
-115.231.96.160		pre.admin.plu.cn
-115.231.96.160		zone.longzhu.com
-115.231.96.160		u.longzhu.com
-115.231.96.160		apiv.longzhu.com
-115.231.96.160		star.tga.plu.cn
-115.231.96.160		pay.longzhu.com
-115.231.96.160		star.api.plu.cn
-115.231.96.160		pre.pay.plu.cn
-115.231.96.160		z.plu.cn
+115.231.106.227		pre.admin.plu.cn
+115.231.106.227		zone.longzhu.com
+115.231.106.227		u.longzhu.com
+115.231.106.227		apiv.longzhu.com
+115.231.106.227		star.tga.plu.cn
+115.231.106.227		pay.longzhu.com
+115.231.106.227		star.api.plu.cn
+115.231.106.227		pre.pay.plu.cn
+115.231.106.227		z.plu.cn
 #121.201.26.99		mbgows.plu.cn
 115.231.96.146		schedules.plu.cn
 115.231.96.133		git.corp.plu.cn
-115.231.96.160		spamapi.plu.cn
-115.231.96.160		loger.corp.plu.cn
+115.231.106.227		spamapi.plu.cn
+115.231.106.227		loger.corp.plu.cn
 
 #测试游戏中心
 115.231.96.148 qqvipapi.longzhu.com
 115.231.96.148 qqvipapi.plu.cn
-115.231.96.160 a4.longzhu.com
-115.231.96.160 orion.plu.cn
+115.231.96.148 a4.longzhu.com
+115.231.96.148 api.longzhu.com
+115.231.96.148 orion.plu.cn
 
 10.200.150.221 ios.plu.cn
 115.231.96.148 baoming.corp.plu.cn
-115.231.96.138  imapi.longzhu.com 
 
 #115.231.96.136   mbgo.plu.cn

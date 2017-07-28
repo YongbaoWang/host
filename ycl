@@ -92,6 +92,7 @@
 115.231.106.240		test8.mservice.longzhu.com
 115.231.106.240		test9.mservice.longzhu.com
 115.231.106.240 	mservice.plu.cn
+115.231.106.240         test.mservices-web.plu.cn
 115.231.106.236	test.searchapi.plu.cn
 
 
@@ -343,7 +344,8 @@
 115.231.106.236		test2.v.longzhu.com
 115.231.106.236		test2.musicapi_corp.plu.cn
 115.231.106.236		test2.livestream.plu.cn
-115.231.106.236		test2.rankapi.longzhu.com
+#115.231.106.236		test2.rankapi.longzhu.com
+10.200.150.230		test2.rankapi.longzhu.com
 115.231.106.236		test2.houtai.tga.plu.cn
 
 ###------test4
@@ -735,7 +737,7 @@
 115.231.106.236		test9.interapi.plu.cn
 115.231.106.236		test9.mb.tga.plu.cn
 115.231.106.236		test9.tagapi.plu.cn
-#115.231.106.236		test9.userapi.plu.cn
+115.231.106.236		test9.userapi.plu.cn
 115.231.106.236		test9.star.api.plu.cn
 115.231.106.236		test9.star.apicdn.plu.cn
 115.231.106.236		test9.admin.plu.cn
