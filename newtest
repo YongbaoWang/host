@@ -33,7 +33,7 @@
 183.129.179.21 liveapi.longzhu.com
 183.129.179.21 liveapi.plu.cn
 183.129.179.21 livestream.longzhu.com
-183.129.179.21 playerlog.longzhu.com
+#183.129.179.21 playerlog.longzhu.com
 183.129.179.21 qqvipapi.longzhu.com
 183.129.179.21 spamapi.longzhu.com
 183.129.179.21 starapi.longzhu.com
@@ -93,6 +93,8 @@
 183.129.179.21 admin.a4.plu.cn
 183.129.179.21 a4.plu.cn
 183.129.179.21 a4.longzhu.com
+183.129.179.21 admin.a4.longzhu.com
+183.129.179.21 admin.a4.plu.cn
 183.129.179.21 api.plu.cn
 183.129.179.21 orion.plu.cn
 183.129.179.21 orion.longzhu.com
@@ -143,7 +145,6 @@
 183.129.179.21 orion.plu.cn
 183.129.179.21 pay.longzhu.com
 183.129.179.21 pay.plu.cn
-183.129.179.21 playerlog.longzhu.com
 #183.129.179.21 player.plures.net
 183.129.179.21 rankapi.longzhu.com
 183.129.179.21 roomapicdn.plu.cn
